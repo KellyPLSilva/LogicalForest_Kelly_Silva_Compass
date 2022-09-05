@@ -37,7 +37,7 @@ Testes Raiz;
 
 ## Referencias e Links
 
-![Githug Documentos] (https://docs.github.com/get-started)
+![Githug Documentos](https://docs.github.com/get-started)
 
 ![Git](https://git-scm.com/downloads)
 
