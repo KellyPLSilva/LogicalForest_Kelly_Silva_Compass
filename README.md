@@ -35,11 +35,6 @@ Testes Divisão;
 
 Testes Raiz;
 
-
-## Ferramentas
-
-##Conclusão
-
 ##Referencias e Links
 
 ![Githug Documentos] (https://docs.github.com/get-started)
