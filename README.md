@@ -39,17 +39,17 @@ Testes Raiz;
 
 ![Githug Documentos] (https://docs.github.com/get-started)
 
-![Git] (https://git-scm.com/downloads)
+![Git](https://git-scm.com/downloads)
 
-![Sprint4] (https://compasso.sharepoint.com/sites/qa/pb/logicalforest/SitePages/Sprint-4.aspx)
+![Sprint4](https://compasso.sharepoint.com/sites/qa/pb/logicalforest/SitePages/Sprint-4.aspx)
 
-![Mocha] (https://mochajs.org/)
+![Mocha](https://mochajs.org/)
 
-![Chai] (https://www.chaijs.com/)
+![Chai](https://www.chaijs.com/)
 
-![Node] (https://nodejs.org/en/download/)
+![Node](https://nodejs.org/en/download/)
 
-![TestesTDD] (https://imasters.com.br/back-end/desenvolvendo-tdd-em-node-js-com-mocha-chai)
+![TestesTDD](https://imasters.com.br/back-end/desenvolvendo-tdd-em-node-js-com-mocha-chai)
 
 
 ## Considerações:
