@@ -55,5 +55,6 @@ Testes Raiz;
 ## Considerações:
 
 Para finalizar gostaria de agradecer a empresa Compasso e a Srum Master pelo desenvolvimento do estágio. <div> Pelo apoio de todos os colegas, em especial Denise, Nosvaldo e Junia que estiveram  incentivando a bater as assas e trilhar nessa Sprint. 
+     [![IMAGEM](https://images.app.goo.gl/hru58MTtFQJYrx2R9)
      
 
