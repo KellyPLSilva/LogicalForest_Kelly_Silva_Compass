@@ -39,9 +39,6 @@ Testes Raiz;
 
 ![GitHub Documentos](https://docs.github.com/get-started)
 
-
-![Github Documentos](https://docs.github.com/get-started)
-
 ![Git](https://git-scm.com/downloads)
 
 ![Sprint4](https://compasso.sharepoint.com/sites/qa/pb/logicalforest/SitePages/Sprint-4.aspx)
@@ -57,7 +54,7 @@ Testes Raiz;
 
 ## Considerações:
 
-Para finalizar gostaria de agradecer a empresa Compasso e a Srum Master pelo desenvolvimento do estágio. <div> Pelo apoio de todos os colegas, em especial Denise, Nosvaldo, Junia e Eduardo que estiveram  incentivando a bater as assas e trilhar nessa Sprint. 
+Para finalizar gostaria de agradecer a empresa Compasso e a Srum Master pelo desenvolvimento do estágio. <div> Pelo apoio de todos os colegas, em especial Denise, Nosvaldo, Junia e Eduardo que estiveram incentivando a bater as asas e trilhar nessa Sprint. 
      
-![IMAGEM](https://images.app.goo.gl/hru58MTtFQJYrx2R9)
+
 
